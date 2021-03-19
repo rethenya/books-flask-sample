@@ -19,7 +19,7 @@ networkx==2.2
 numpy==1.16.6
 opencv-python==4.2.0.32
 pathlib2==2.3.5
-Pillow==6.2.2
+Pillow==8.1.1
 pipenv==2020.6.2
 PyWavelets==1.0.3
 scandir==1.10.0
